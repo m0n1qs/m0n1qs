@@ -10,7 +10,7 @@ Estou aberta a oportunidades de emprego, freelancer ou colaborações em projeto
 
 Sinta-se a vontade para me contatar por e-mail (m.moniquemuniz.s@gmail.com) ou pelas redes sociais (linkedin.com/in/m0n1q/).
 
-[![My Skills](https://skills.thijs.gg/icons?i=postman,Jira,vscode,discord,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=postman,atlassian,vscode,discord,figma&theme=dark)](https://skills.thijs.gg)
 
 
 🌈Fato curioso: gosto de cinema, costura e gatos 🥰
