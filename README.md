@@ -11,7 +11,7 @@ Proficient in Test Documentation, Bug Tracking, Jira, Azure, Manual Testing, API
 
 👋
 
-[![My Skills](https://skillicons.dev/icons?i=postman,atlassian,azure,vscode,discord,notion,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,atlassianjira,swagger,postegresql,azure,vscode,discord,notion,figma&theme=dark)](https://skillicons.dev)
 
 
 
