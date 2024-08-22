@@ -7,7 +7,7 @@ Overall, I am always eager to learn. I am a Tester with limited professional exp
 I am excited to grow in this field and apply everything I have learned. If you'd like to exchange experiences, feel free to reach out!
 E-mail: m.moniquemuniz.s@gmail.com | social media: linkedin.com/in/m0n1q/.
 
-Proficient in Test Documentation, Bug Tracking, Jira, Manual Testing, API Testing with Postman, Mobile Testing, Agile Scrum, Behavior-Driven Development (BDD) Methodology, SQL/Database, Collaboration, Attention to Detail, Critical Thinking, Problem Solving, Creativity.
+Proficient in Test Documentation, Bug Tracking, Jira, Azure, Manual Testing, API Testing with Postman, Mobile Testing, Agile Scrum, Behavior-Driven Development (BDD) Methodology, SQL/Database, Collaboration, Attention to Detail, Critical Thinking, Problem Solving, Creativity.
 
 👋
 
@@ -15,5 +15,5 @@ Proficient in Test Documentation, Bug Tracking, Jira, Manual Testing, API Testin
 
 
 
-🐾Recent Projects ProbaSorte -> https://github.com/Hackathon-Luck-or-Misfortune/QA
-
+🐾Recent Projects ProbaSorte  -> https://github.com/Hackathon-Luck-or-Misfortune/QA
+🐾Recent Projects Dia de Xepa -> https://github.com/Hackaton-4
