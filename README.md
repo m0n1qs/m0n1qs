@@ -13,6 +13,8 @@ Proficient in Test Documentation, Bug Tracking, Jira, Manual Testing, API Testin
 
 [![My Skills](https://skills.thijs.gg/icons?i=postman,jira,vscode,discord,figma&theme=dark)](https://skills.thijs.gg)
 
+[![My Skills](https://skills.thijs.gg/icons?i=postman,jira,vscode,discord,figma&theme=dark)](https://skills.thijs.gg)
+
 
 🐾Recent Projects ProbaSorte -> https://github.com/Hackathon-Luck-or-Misfortune/QA
 
