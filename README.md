@@ -12,6 +12,9 @@ Proficient in Test Documentation, Bug Tracking, Jira, Azure, Manual Testing, API
 👋
 
 [![My Skills](https://skillicons.dev/icons?i=postman,jira,swagger,postegresql,azure,vscode,discord,notion,figma&theme=dark)](https://skillicons.dev)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/javascript-original.svg" alt="swagger" width="40" height="40"/>
+</p>
 
 
 
